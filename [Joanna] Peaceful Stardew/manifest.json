@@ -1,0 +1,9 @@
+{
+  "Name": "Joanna's Peaceful Stardew",
+  "Author": "Joanna",
+  "Version": "1.0.0",
+  "Description": "A personal quality-of-life mod for a peaceful Stardew Valley experience.",
+  "UniqueID": "Joanna.PeacefulStardew",
+  "EntryDll": "JoannaPeacefulStardew.dll",
+  "MinimumApiVersion": "4.5.2"
+}
